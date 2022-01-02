@@ -1,0 +1,17 @@
+[
+    {
+        "file1_configuration":{
+            "file_path": "<file path>",
+            "columns": [],
+            "file_type": "xlsx",
+            "contains_header": "n"
+        }
+    },
+    {
+        "file2_configuration":{
+            "file_path": "C:/Users/DS/OneDrive/Desktop/TestData/nba2.xlsx",
+            "columns":[],
+            "contains_header": "n"
+        }
+    }
+]
